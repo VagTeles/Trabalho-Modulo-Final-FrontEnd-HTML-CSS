@@ -22,7 +22,8 @@ span {
 }
 
 nav {
-    height: 100%;
+    height:1042px;
+    
 }
 
 a {
@@ -41,6 +42,9 @@ a:hover {
 li {
     list-style: none;
     margin: 85px;
+}
+.conhecimentos li{
+    list-style: none;
 }
 
 ul {
