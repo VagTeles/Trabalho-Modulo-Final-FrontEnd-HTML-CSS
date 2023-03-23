@@ -17,12 +17,12 @@ body {
     align-items: center;
 }
 
-span {
+.email  {
     color: #ff0000;
 }
 
 nav {
-    height:1042px;
+    height:100vh;
     
 }
 
@@ -61,7 +61,8 @@ img {
 }
 
 .sobre,
-.conhecimentos {
+.conhecimentos,
+.objetivos {
     margin-top: 179px;
     margin-left: 80px;
 }
